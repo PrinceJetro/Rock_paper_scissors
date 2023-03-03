@@ -1,0 +1,31 @@
+body{
+
+    background-image: url("https://www.pcclean.io/wp-content/uploads/2020/4/ABnaii.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+     background-size: cover;
+     color:aliceblue
+
+}
+
+.game{
+    background-image: url("https://www.pcclean.io/wp-content/uploads/2020/4/ABnaii.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+     background-size: cover;
+     color:aliceblue
+
+}
+
+
+.computer_image, .player_image{
+    height:180px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+.btn-lg{
+    margin-right: 20px;
+    height: 60px;
+
+}
